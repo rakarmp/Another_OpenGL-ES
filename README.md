@@ -12,7 +12,7 @@ create simple scripts using OpenGL ES as a basis for understanding how to optimi
 
 1. **`shader_utils.h` and `shader_utils.c`** - Helpers for creating shaders and programs.
 2. **`main.c`** - OpenGL ES initialization, context creation, shader setup, and rendering loop setup for drawing simple objects.
-3. **`Android.mk`` and `Application.mk`** - Build scripts for Android NDK.
+3. **`Android.mk` and `Application.mk`** - Build scripts for Android NDK.
 
 ### Extensions and Optimizations:
 1. **Batch Rendering:** Use batch rendering techniques to reduce draw calls.
